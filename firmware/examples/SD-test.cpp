@@ -1,4 +1,4 @@
-#include "SD.h"
+#include "particle-photon-sd-card-library.h"
 
 int8_t SPI_init(void);
 int8_t sd_test(void);

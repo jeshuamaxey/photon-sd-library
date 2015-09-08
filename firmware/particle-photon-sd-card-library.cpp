@@ -50,7 +50,7 @@
 
  */
 
-#include "SD.h"
+#include "particle-photon-sd-card-library.h"
 
 // Used by `getNextPathComponent`
 #define MAX_COMPONENT_LEN 12 // What is max length?

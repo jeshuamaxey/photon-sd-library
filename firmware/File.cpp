@@ -12,7 +12,7 @@
 
  */
 
-#include "SD.h"
+#include "particle-photon-sd-card-library.h"
 //#include <malloc.h>
 //#include <string.h>
 

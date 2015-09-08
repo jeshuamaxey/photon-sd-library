@@ -3,7 +3,7 @@
  * for the standard Arduino SD.h library.
  */
 #include "application.h"
-#include "SD.h"
+#include "particle-photon-sd-card-library.h"
 
 // SD chip select pin
 const uint8_t chipSelect = SS;
