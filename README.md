@@ -1,5 +1,8 @@
 Particle Photon SD Card Library
 ===
+
+> **:exclamation:  Attention:** I can no longer maintain this repo as I don't have access to a Particle Photon. If you'd like to maintain it, [please get in touch with me](https://twitter.com/jeshuamaxey).
+
 Web IDE library V0.0.1
 Adapted from [this repo](https://github.com/kennethlimcp/particle-examples).
 
