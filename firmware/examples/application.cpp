@@ -52,7 +52,7 @@ void loop() {
 
   while(Serial.available()) Serial.read();
   Serial.println("Hit any key to run the test");
-  While(!Serial.available()) Spark.process();
+  while(!Serial.available()) Spark.process();
 
   // open or create file - truncate existing file.
   file = SD.open("BENCH.DAT", FILE_WRITE | O_TRUNC);
